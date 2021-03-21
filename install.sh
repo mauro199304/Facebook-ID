@@ -60,7 +60,7 @@ sleep 2
 
 FICHERO= cd /data/data/com.termux/files/usr/etc/fish
 FICHEROO= cd /data/data/com.termux/files/usr/etc
-escribir="alias facebook='php /data/data/com.termux/files/home/.ID.php'"
+escribir="alias face='php /data/data/com.termux/files/home/.ID.php'"
 
 if [ -f $FICHERO ]
 then
